@@ -1,0 +1,107 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml:2:1-33:12
+MERGED from [:abbyy-rtr-sdk-1.0:] C:\Users\Christopher\.gradle\caches\transforms-1\files-1.1\abbyy-rtr-sdk-1.0.aar\93e77bda127d977c87ef096167793f35\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Christopher\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\7496a6b55796eaf4e5a67b21ace818a2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Christopher\.gradle\caches\transforms-1\files-1.1\support-v4-23.1.1.aar\f3650504a5e99cc10464b243e32c8519\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Christopher\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\5193c52fe0266f4d21274e72ba83cdb9\AndroidManifest.xml:2:1-11:12
+INJECTED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml
+		INJECTED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml
+		ADDED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml
+		ADDED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera
+ADDED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml:5:5-7:35
+	android:required
+		ADDED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml:7:9-32
+	android:name
+		ADDED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml:6:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml:8:5-10:36
+	android:required
+		ADDED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml:10:9-33
+	android:name
+		ADDED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml:9:9-57
+uses-permission#android.permission.CAMERA
+ADDED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml:12:22-62
+uses-permission#android.permission.INTERNET
+ADDED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml:15:22-64
+application
+ADDED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml:17:5-31:19
+MERGED from [:abbyy-rtr-sdk-1.0:] C:\Users\Christopher\.gradle\caches\transforms-1\files-1.1\abbyy-rtr-sdk-1.0.aar\93e77bda127d977c87ef096167793f35\AndroidManifest.xml:11:5-15:19
+MERGED from [:abbyy-rtr-sdk-1.0:] C:\Users\Christopher\.gradle\caches\transforms-1\files-1.1\abbyy-rtr-sdk-1.0.aar\93e77bda127d977c87ef096167793f35\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Christopher\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\7496a6b55796eaf4e5a67b21ace818a2\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Christopher\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\7496a6b55796eaf4e5a67b21ace818a2\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Christopher\.gradle\caches\transforms-1\files-1.1\support-v4-23.1.1.aar\f3650504a5e99cc10464b243e32c8519\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Christopher\.gradle\caches\transforms-1\files-1.1\support-v4-23.1.1.aar\f3650504a5e99cc10464b243e32c8519\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Christopher\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\5193c52fe0266f4d21274e72ba83cdb9\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Christopher\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\5193c52fe0266f4d21274e72ba83cdb9\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from [:abbyy-rtr-sdk-1.0:] C:\Users\Christopher\.gradle\caches\transforms-1\files-1.1\abbyy-rtr-sdk-1.0.aar\93e77bda127d977c87ef096167793f35\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml:19:9-41
+	android:allowBackup
+		ADDED from [:abbyy-rtr-sdk-1.0:] C:\Users\Christopher\.gradle\caches\transforms-1\files-1.1\abbyy-rtr-sdk-1.0.aar\93e77bda127d977c87ef096167793f35\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml:18:9-43
+	android:theme
+		ADDED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml:20:9-40
+activity#com.abbyy.mobile.sample.Activities.MainActivity
+ADDED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml:21:9-30:20
+	android:label
+		ADDED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml:24:13-45
+	android:configChanges
+		ADDED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml:23:13-62
+	android:name
+		ADDED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml:22:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml:28:27-74
+uses-sdk
+INJECTED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml
+INJECTED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml
+MERGED from [:abbyy-rtr-sdk-1.0:] C:\Users\Christopher\.gradle\caches\transforms-1\files-1.1\abbyy-rtr-sdk-1.0.aar\93e77bda127d977c87ef096167793f35\AndroidManifest.xml:7:5-9:41
+MERGED from [:abbyy-rtr-sdk-1.0:] C:\Users\Christopher\.gradle\caches\transforms-1\files-1.1\abbyy-rtr-sdk-1.0.aar\93e77bda127d977c87ef096167793f35\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Christopher\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\7496a6b55796eaf4e5a67b21ace818a2\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Christopher\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\7496a6b55796eaf4e5a67b21ace818a2\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Christopher\.gradle\caches\transforms-1\files-1.1\support-v4-23.1.1.aar\f3650504a5e99cc10464b243e32c8519\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Christopher\.gradle\caches\transforms-1\files-1.1\support-v4-23.1.1.aar\f3650504a5e99cc10464b243e32c8519\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Christopher\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\5193c52fe0266f4d21274e72ba83cdb9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Christopher\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\5193c52fe0266f4d21274e72ba83cdb9\AndroidManifest.xml:5:5-7:41
+INJECTED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml
+INJECTED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml
+		ADDED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml
+		INJECTED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml
+		ADDED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml
+		INJECTED from D:\SDK ABBY\sample-textcapture\app\src\main\AndroidManifest.xml

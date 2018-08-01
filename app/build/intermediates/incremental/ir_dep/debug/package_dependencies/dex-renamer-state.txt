@@ -1,0 +1,4 @@
+#Wed Aug 01 12:21:16 BOT 2018
+base.0=D\:\\SDK ABBY\\sample-textcapture\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+path.0=classes.dex
+renamed.0=classes.dex
